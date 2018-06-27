@@ -6,10 +6,6 @@
     "file": {
       "type": "file",
       "filename": "app.log"
-    },
-    "redis": {
-      "type": "redis",
-      "channel": "logs"
     }
   },
   "categories": {
