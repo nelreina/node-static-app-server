@@ -2,6 +2,7 @@
   "name": "node-static-app-serve",
   "description": "Serve multiple static Apps",
   "version": "1.0.0",
+  "private": true,
   "main": "server.js",
   "license": "MIT",
   "scripts": {
