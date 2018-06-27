@@ -1,12 +1,13 @@
 {
-  "name": "node-static-app-serve",
+  "name": "node-static-app-server",
   "description": "Serve multiple static Apps",
   "version": "1.0.0",
   "private": true,
   "main": "server.js",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon server"
+    "dev": "nodemon server",
+    "serve": "node server"
   },
   "devDependencies": {
     "nodemon": "^1.17.5"
